@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">Simple RecyclerView</string>
+
+    <string-array name="movie_array">
+        <item>The Tomorrow War</item>
+        <item>Encounter</item>
+        <item>Cinderella</item>
+        <item>Without Remorse</item>
+        <item>Rising Wolf</item>
+        <item>Bliss</item>
+        <item>Bell Bottom</item>
+        <item>My Brother's Keeper</item>
+        <item>The Stairs</item>
+        <item>Gamanam</item>
+        <item>SkinWalker</item>
+        <item>The Voyeurs</item>
+        <item>Master</item>
+        <item>Pushpa</item>
+        <item>The Tender Bar</item>
+        <item>Coming to america</item>
+        <item>Encanto</item>
+        <item>Bingo Hell</item>
+        <item>12 0'clock</item>
+        <item>Dwellers</item>
+        <item>The Dry</item>
+        <item>The Drone</item>
+        <item>Shadow in the cloud</item>
+        <item>The Marine</item>
+        <item>Chehre</item>
+        <item>Black As Night</item>
+    </string-array>
 </resources>
