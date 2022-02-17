@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simple RecyclerView</string>
-
     <string-array name="movie_array">
         <item>The Tomorrow War</item>
         <item>Encounter</item>
@@ -9,7 +9,7 @@
         <item>Rising Wolf</item>
         <item>Bliss</item>
         <item>Bell Bottom</item>
-        <item>My Brother's Keeper</item>
+        <item>My Brother\'s Keeper</item>
         <item>The Stairs</item>
         <item>Gamanam</item>
         <item>SkinWalker</item>
@@ -20,7 +20,7 @@
         <item>Coming to america</item>
         <item>Encanto</item>
         <item>Bingo Hell</item>
-        <item>12 0'clock</item>
+        <item>12 0\'clock</item>
         <item>Dwellers</item>
         <item>The Dry</item>
         <item>The Drone</item>
