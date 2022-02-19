@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simple RecyclerView</string>
-
     <string name="movie1_name">The Tomorrow War</string>
     <string name="movie2_name">Encounter</string>
     <string name="movie3_name">Cinderella</string>
@@ -13,6 +12,7 @@
     <string name="movie9_name">Spencer</string>
     <string name="movie10_name">A Fall From Grace</string>
     <string name="movie11_name">Nancy Drew and the Hidden Staircase</string>
+    <string name="movie12_name">Security</string>
     <string name="movie13_name">Till Death</string>
     <string name="movie14_name">Intrusion</string>
     <string name="movie15_name">Initiation</string>
@@ -21,33 +21,7 @@
     <string name="movie18_name">Encanto</string>
     <string name="movie19_name">Music</string>
     <string name="movie20_name">Rumble</string>
-    <string name="movie21_name">Music</string>
-    <string name="movie22_name">Shadow in the cloud</string>
-    <string name="movie23_name">The Water Man</string>
-    <string name="movie24_name">Security</string>
+    <string name="movie21_name">Shadow in the cloud</string>
+    <string name="movie22_name">The Water Man</string>
 
-    <string-array name="movie_array">
-        <item>The Tomorrow War</item>
-        <item>Encounter</item>
-        <item>Cinderella</item>
-        <item>Without Remorse</item>
-        <item>Wildling</item>
-        <item>Bliss</item>
-        <item>Sister Bliss</item>
-        <item>Aeon Flux</item>
-        <item>Spencer</item>
-        <item>A Fall From Grace</item>
-        <item>Nancy Drew and the Hidden Staircase</item>
-        <item>Till Death</item>
-        <item>Intrusion</item>
-        <item>Initiation</item>
-        <item>The Tender Bar</item>
-        <item>Coming to america</item>
-        <item>Encanto</item>
-        <item>Music</item>
-        <item>Rumble</item>
-        <item>Shadow in the cloud</item>
-        <item>The Water Man</item>
-        <item>Security</item>
-    </string-array>
 </resources>
