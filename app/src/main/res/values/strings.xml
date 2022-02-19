@@ -2,6 +2,30 @@
 <resources>
     <string name="app_name">Simple RecyclerView</string>
 
+    <string name="movie1_name">The Tomorrow War</string>
+    <string name="movie2_name">Encounter</string>
+    <string name="movie3_name">Cinderella</string>
+    <string name="movie4_name">Without Remorse</string>
+    <string name="movie5_name">Wildling</string>
+    <string name="movie6_name">Bliss</string>
+    <string name="movie7_name">Sister Bliss</string>
+    <string name="movie8_name">Aeon Flux</string>
+    <string name="movie9_name">Spencer</string>
+    <string name="movie10_name">A Fall From Grace</string>
+    <string name="movie11_name">Nancy Drew and the Hidden Staircase</string>
+    <string name="movie13_name">Till Death</string>
+    <string name="movie14_name">Intrusion</string>
+    <string name="movie15_name">Initiation</string>
+    <string name="movie16_name">The Tender Bar</string>
+    <string name="movie17_name">Coming to america</string>
+    <string name="movie18_name">Encanto</string>
+    <string name="movie19_name">Music</string>
+    <string name="movie20_name">Rumble</string>
+    <string name="movie21_name">Music</string>
+    <string name="movie22_name">Shadow in the cloud</string>
+    <string name="movie23_name">The Water Man</string>
+    <string name="movie24_name">Security</string>
+
     <string-array name="movie_array">
         <item>The Tomorrow War</item>
         <item>Encounter</item>
