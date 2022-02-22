@@ -10,7 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SimpleRecyclerView">
         <activity
-            android:name=".MainActivity"
+            android:name=".addMovie.AddMovieActivity"
+            android:exported="false" />
+        <activity
+            android:name=".movieDetail.MovieDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".movieList.MoviesListActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
