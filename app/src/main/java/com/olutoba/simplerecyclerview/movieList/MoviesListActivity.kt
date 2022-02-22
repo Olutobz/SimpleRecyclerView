@@ -9,9 +9,9 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.ConcatAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.olutoba.simplerecyclerview.AddMovieActivity
-import com.olutoba.simplerecyclerview.FLOWER_NAME
 import com.olutoba.simplerecyclerview.R
+import com.olutoba.simplerecyclerview.addMovie.AddMovieActivity
+import com.olutoba.simplerecyclerview.addMovie.FLOWER_NAME
 import com.olutoba.simplerecyclerview.data.Movie
 import com.olutoba.simplerecyclerview.movieDetail.MovieDetailActivity
 import com.olutoba.simplerecyclerview.movieDetail.MovieDetailViewModel

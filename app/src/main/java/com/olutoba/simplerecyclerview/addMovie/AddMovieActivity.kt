@@ -19,16 +19,12 @@ class AddMovieActivity : AppCompatActivity() {
         setContentView(R.layout.activity_add_movie)
 
         findViewById<Button>(R.id.done_button).setOnClickListener {
-            addFlower()
+            addMovie()
         }
         addMovieName = findViewById(R.id.add_flower_name)
     }
 
-    /* The onClick action for the done button. Closes the activity and returns the new flower name
-  and description as part of the intent. If the name or description are missing, the result is set
-  to cancelled. */
-
-    private fun addFlower() {
+    private fun addMovie() {
         val resultIntent = Intent()
 
         if (addMovieName.text.isNullOrEmpty()) {
