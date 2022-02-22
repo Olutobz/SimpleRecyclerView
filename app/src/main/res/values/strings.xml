@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simple RecyclerView</string>
+
     <string name="movie1_name">The Tomorrow War</string>
     <string name="movie2_name">Encounter</string>
     <string name="movie3_name">Cinderella</string>
@@ -23,5 +23,15 @@
     <string name="movie20_name">Rumble</string>
     <string name="movie21_name">Shadow in the cloud</string>
     <string name="movie22_name">The Water Man</string>
+
+    <string name="movie_image_content_description">image of movie cover</string>
+    <string name="fab_content_description">fab</string>
+    <string name="movie_finder">Movie finder</string>
+    <string name="movie_string">Movies</string>
+    <string name="movie_image_content_detail_description">Image of movie</string>
+    <string name="remove_this_movie">Remove this movie</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="movie_name_edit_text">Movie Name</string>
+    <string name="done_button_text">Done</string>
 
 </resources>
