@@ -24,7 +24,7 @@ class MoviesListViewModel(private val datasource: Datasource) : ViewModel() {
 @Suppress("UNCHECKED_CAST")
 class MoviesListViewModelFactory(private val context: Context) : ViewModelProvider.Factory {
 
-    override fun <T : ViewModel?> create(modelClass: Class<T>): T {
+    override fun <T : ViewModel> create(modelClass: Class<T>): T {
         if (modelClass.isAssignableFrom(MoviesListViewModel::class.java)) {
             return MoviesListViewModel(
                 datasource = Datasource.getDataSource(context.resources)
